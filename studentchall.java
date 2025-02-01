@@ -6,7 +6,7 @@ public class studentchall{
 
     public static final String gmail = null;
     
-        public static void main(string[] args){
+        public static void main(countnumber[] args){
     
             String str ="programmer@gmail.com";
     
